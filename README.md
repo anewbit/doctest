@@ -64,7 +64,7 @@
     <td>✔️</td>
   </tr>
   <tr>
-    <td rowspan="2">观测</td>
+    <td rowspan="3">观测</td>
     <td>Trace</td>
     <td>✔️</td>
     <td>✔️</td>
@@ -76,23 +76,17 @@
   </tr>
   <tr>
     <td>自动化任务</td>
-    <td>自动化任务</td>
     <td>✔️</td>
     <td>-</td>
   </tr>
   <tr>
-    <td rowspan="2">模型</td>
+    <td rowspan="1">模型</td>
     <td>模型管理</td>
     <td>✔️</td>
     <td>✔️</td>
   </tr>
   <tr>
-    <td>安全</td>
-    <td>✔️</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td rowspan="4">安全</td>
+    <td rowspan="2">安全</td>
     <td>SSO 登录</td>
     <td>✔️</td>
     <td>-</td>
@@ -103,6 +97,7 @@
     <td>-</td>
   </tr>
   <tr>
+    <td rowspan="3">团队与企业管理</td>
     <td>工作空间与成员管理</td>
     <td>✔️</td>
     <td>-</td>
@@ -113,7 +108,6 @@
     <td>-</td>
   </tr>
   <tr>
-    <td>企业团队与权限</td>
     <td>企业团队与权限</td>
     <td>✔️</td>
     <td>-</td>
