@@ -139,9 +139,9 @@
 如果你在该项目中发现潜在的安全问题，或你认为可能发现了安全问题，请通过我们的[安全中心](https://security.bytedance.com/src) 或[漏洞报告邮箱](https://code.byted.org/flowdevops/cozeloop/blob/feat/release/sec@bytedance.com)通知字节跳动安全团队。
 请**不要**创建公开的 GitHub Issue。
 ## 加入社区
-微信扫码加入社区
+飞书移动端扫描以下二维码，加入扣子罗盘技术交流群。
 
-![Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/53fe9147867545fc86f1d428421d5500~tplv-goo7wpa0wc-image.image)
+![Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/f305a43be0ce43dca6cf6014019bfdd2~tplv-goo7wpa0wc-image.image)
 ## 致谢
 感谢所有为 Cozeloop 项目做出贡献的开发者和社区成员。特别感谢：
 
