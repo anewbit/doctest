@@ -142,7 +142,8 @@
 ## 加入社区
 飞书移动端扫描以下二维码，加入扣子罗盘技术交流群。
 
-![Image](https://p9-arcosite.byteimg.com/tos-cn-i-goo7wpa0wc/f305a43be0ce43dca6cf6014019bfdd2~tplv-goo7wpa0wc-image.image)
+![](https://code.byted.org/flowdevops/cozeloop/raw/feat/release/.github/static/img/lark_group.cn.png)
+
 ## 致谢
 感谢所有为 Cozeloop 项目做出贡献的开发者和社区成员。特别感谢：
 
