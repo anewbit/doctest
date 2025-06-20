@@ -116,7 +116,7 @@
 </table>
 
 ## 快速开始
-参考[快速开始](../wiki/2.-快速开始)，了解如何安装部署扣子罗盘最新版本。
+参考[快速开始](https://github.com/anewbit/doctest/wiki/2.-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)，了解如何安装部署扣子罗盘最新版本。
 ## 使用扣子罗盘社区版
 
 * [Prompt 开发与调试](https://loop.coze.cn/open/docs/cozeloop/create-prompt)：扣子罗盘提供了完整的提示词开发流程。
@@ -126,11 +126,11 @@
 
 ## 开发指南
 
-* [系统架构](3.-系统架构)：了解扣子罗盘社区版的技术架构与核心组件。
-* [启动模式](4.-服务启动模式)：安装部署扣子罗盘社区版时，默认使用开发模式，此模式下修改后端文件无需重新部署服务。
-* [模型配置](5.-模型配置)：扣子罗盘社区版通过 Eino 框架支持多种 LLM 模型，参考此文档查看支持的模型列表，了解如何配置模型。
-* [代码开发与测试](6.-代码开发与测试)：了解如何基于扣子罗盘社区版进行二次开发与测试。
-* [故障排查](7.-故障排查)：了解如何查看容器状态、系统日志。
+* [系统架构](https://github.com/anewbit/doctest/wiki/3.-%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84)：了解扣子罗盘社区版的技术架构与核心组件。
+* [启动模式](https://github.com/anewbit/doctest/wiki/4.-%E6%9C%8D%E5%8A%A1%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F)：安装部署扣子罗盘社区版时，默认使用开发模式，此模式下修改后端文件无需重新部署服务。
+* [模型配置](https://github.com/anewbit/doctest/wiki/5.-%E6%A8%A1%E5%9E%8B%E9%85%8D%E7%BD%AE)：扣子罗盘社区版通过 Eino 框架支持多种 LLM 模型，参考此文档查看支持的模型列表，了解如何配置模型。
+* [代码开发与测试](https://github.com/anewbit/doctest/wiki/6.-%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95)：了解如何基于扣子罗盘社区版进行二次开发与测试。
+* [故障排查](https://github.com/anewbit/doctest/wiki/7.-%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5)：了解如何查看容器状态、系统日志。
 
 ## License
 本项目采用 Apache 2.0 许可证。详情请参阅 [LICENSE](https://code.byted.org/flowdevops/cozeloop/blob/feat/release/LICENSE) 文件。
